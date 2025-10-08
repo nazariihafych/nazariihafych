@@ -17,7 +17,7 @@
     Theoretical Physicist • Computational Scientist • Python Developer
   </p>
   <p style="color: #8B949E; font-size: 1em; margin-bottom: 20px;">
-    📍 Kraków, Poland | 🕒 CET | 📚 Research in Mathematical Physics
+     Kraków, Poland |  CET |  Research in Mathematical Physics
   </p>
 
   <br>
