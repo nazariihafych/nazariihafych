@@ -67,7 +67,7 @@
   <hr style="width: 80%; border: 1px solid #30363D; margin: 35px 0;" />
 
   <p style="margin-top: 30px; font-style: italic; color: #8B949E; max-width: 650px; font-size: 1em; text-align: center;">
-    “The universe is written in the language of mathematics — and code is its modern dialect.”
+    The universe is written in the language of mathematics — and code is its modern dialect.
   </p>
 
 </div>
